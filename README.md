@@ -5,3 +5,5 @@ productos de Mercado Libre, de modo que el script tiene por input el nombre del 
 Por ejemplo: __Botellas de agua__. El script recolectará las imágenes de botellas de agua que Mercado Libre despliega en su primera página de resultados, dichas imágenes 
 el script las guada en una carpeta del equipo.
 
+## Capturas del script funcionando.
+
